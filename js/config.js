@@ -1,6 +1,6 @@
 export const API_KEY = "";
 export const STORAGE_KEY = 'gemini_chat_sessions';
-export const MODEL_NAME = "gemini-3-pro-preview";
+export const MODEL_NAME = "gemini-3-flash-preview";
 
 
 export const DEFAULT_SUMMARY_LEVEL = 5;
